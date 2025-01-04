@@ -22,3 +22,4 @@ Add documentation
 Fix bug in feature X
 Update dependencies
 Fix broken link
+Update configuration
