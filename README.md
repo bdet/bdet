@@ -18,3 +18,4 @@ Fix bug in feature X
 Remove unused imports
 Fix broken link
 Update dependencies
+Add documentation
