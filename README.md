@@ -19,3 +19,4 @@ Remove unused imports
 Fix broken link
 Update dependencies
 Add documentation
+Fix bug in feature X
