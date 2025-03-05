@@ -23,3 +23,4 @@ Fix bug in feature X
 Update dependencies
 Fix broken link
 Update configuration
+Remove unused imports
