@@ -28,3 +28,4 @@ Rewrite function Y
 Add new utility script
 Update API endpoint
 Optimize loop
+Refactor core logic
