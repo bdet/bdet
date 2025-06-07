@@ -20,3 +20,4 @@ Fix broken link
 Update dependencies
 Add documentation
 Fix bug in feature X
+Update dependencies
